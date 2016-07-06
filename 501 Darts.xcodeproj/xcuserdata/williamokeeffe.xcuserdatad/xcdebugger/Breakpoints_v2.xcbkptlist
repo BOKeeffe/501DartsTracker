@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "501 Darts/Player.swift"
+            timestampString = "452723484.614405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "player"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "501 Darts/gameManagerViewController.swift"
+            timestampString = "452804607.291814"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "gameManagerViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_01_Darts.gameManagerViewController.scoreHeader.setter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIView&gt;"
+                  moduleName = "501 Darts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamokeeffe/Desktop/iosFolder/GryffindorLogicStudio/501%20Darts/501%20Darts/gameManagerViewController.swift"
+                  timestampString = "452724933.067584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_01_Darts.gameManagerViewController.scoreHeader.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIView&gt;"
+                  moduleName = "501 Darts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamokeeffe/Desktop/iosFolder/GryffindorLogicStudio/501%20Darts/501%20Darts/gameManagerViewController.swift"
+                  timestampString = "452724933.067782"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_01_Darts.gameManagerViewController.init (_01_Darts.gameManagerViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; _01_Darts.gameManagerViewController"
+                  moduleName = "501 Darts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamokeeffe/Desktop/iosFolder/GryffindorLogicStudio/501%20Darts/501%20Darts/gameManagerViewController.swift"
+                  timestampString = "452724933.067947"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_01_Darts.gameManagerViewController.init (_01_Darts.gameManagerViewController.Type)() -&gt; _01_Darts.gameManagerViewController"
+                  moduleName = "501 Darts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamokeeffe/Desktop/iosFolder/GryffindorLogicStudio/501%20Darts/501%20Darts/gameManagerViewController.swift"
+                  timestampString = "452724933.068109"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_01_Darts.gameManagerViewController.init (_01_Darts.gameManagerViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; _01_Darts.gameManagerViewController"
+                  moduleName = "501 Darts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/williamokeeffe/Desktop/iosFolder/GryffindorLogicStudio/501%20Darts/501%20Darts/gameManagerViewController.swift"
+                  timestampString = "452724933.068271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "501 Darts/FinishViewController.swift"
+            timestampString = "454268643.83429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "findPlayer1AverageScore()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "501 Darts/gameManagerViewController.swift"
+            timestampString = "488910339.24027"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "gameManagerViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
